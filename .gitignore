@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Console.OpenApi.Samples.C#/bin/Debug/netcoreapp3.1
+/Console.OpenApi.Samples.C#/.vs/OpenApi.Samples
+/Console.OpenApi.Samples.C#/obj
+/Console.OpenApi.Samples.Java/target/classes
+/Console.OpenApi.Samples.Java/.idea
+/Console.OpenApi.Samples.C#/bin/Debug/netstandard2.1
